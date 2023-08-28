@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @LeendertVS
+- 👀 I’m interested in programming
+- 📫 How to reach me
+- Email: leendertvanslingeland00@gmail.com
+- Linkedin: https://www.linkedin.com/in/leendert-van-slingeland-15916b1b3
+
+<!---
+LeendertVS/LeendertVS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
